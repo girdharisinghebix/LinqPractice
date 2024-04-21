@@ -1,0 +1,15 @@
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\bin\Debug\net7.0\CoreProject.InterfaceRepository.deps.json
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\bin\Debug\net7.0\CoreProject.InterfaceRepository.dll
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\bin\Debug\net7.0\CoreProject.InterfaceRepository.pdb
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\bin\Debug\net7.0\CoreProject.Model.dll
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\bin\Debug\net7.0\CoreProject.Model.pdb
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\CoreProject.InterfaceRepository.csproj.AssemblyReference.cache
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\CoreProject.InterfaceRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\CoreProject.InterfaceRepository.AssemblyInfoInputs.cache
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\CoreProject.InterfaceRepository.AssemblyInfo.cs
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\CoreProject.InterfaceRepository.csproj.CoreCompileInputs.cache
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\CoreProject.InterfaceRepository.csproj.CopyComplete
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\CoreProject.InterfaceRepository.dll
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\refint\CoreProject.InterfaceRepository.dll
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\CoreProject.InterfaceRepository.pdb
+E:\IMP\CoreAutoMapper\CoreProject.InterfaceRepository\obj\Debug\net7.0\ref\CoreProject.InterfaceRepository.dll

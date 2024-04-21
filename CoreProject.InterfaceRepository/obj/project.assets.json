@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CoreProject.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CoreProject.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreProject.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreProject.Model/1.0.0": {
+      "type": "project",
+      "path": "../CoreProject.Model/CoreProject.Model.csproj",
+      "msbuildProject": "../CoreProject.Model/CoreProject.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CoreProject.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\girdh\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\IMP\\CoreAutoMapper\\CoreProject.InterfaceRepository\\CoreProject.InterfaceRepository.csproj",
+      "projectName": "CoreProject.InterfaceRepository",
+      "projectPath": "E:\\IMP\\CoreAutoMapper\\CoreProject.InterfaceRepository\\CoreProject.InterfaceRepository.csproj",
+      "packagesPath": "C:\\Users\\girdh\\.nuget\\packages\\",
+      "outputPath": "E:\\IMP\\CoreAutoMapper\\CoreProject.InterfaceRepository\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\girdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "E:\\IMP\\CoreAutoMapper\\CoreProject.Model\\CoreProject.Model.csproj": {
+              "projectPath": "E:\\IMP\\CoreAutoMapper\\CoreProject.Model\\CoreProject.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

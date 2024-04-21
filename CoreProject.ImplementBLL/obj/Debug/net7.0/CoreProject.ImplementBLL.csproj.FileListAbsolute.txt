@@ -1,0 +1,11 @@
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\bin\Debug\net7.0\CoreProject.ImplementBLL.deps.json
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\bin\Debug\net7.0\CoreProject.ImplementBLL.dll
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\bin\Debug\net7.0\CoreProject.ImplementBLL.pdb
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\obj\Debug\net7.0\CoreProject.ImplementBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\obj\Debug\net7.0\CoreProject.ImplementBLL.AssemblyInfoInputs.cache
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\obj\Debug\net7.0\CoreProject.ImplementBLL.AssemblyInfo.cs
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\obj\Debug\net7.0\CoreProject.ImplementBLL.csproj.CoreCompileInputs.cache
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\obj\Debug\net7.0\CoreProject.ImplementBLL.dll
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\obj\Debug\net7.0\refint\CoreProject.ImplementBLL.dll
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\obj\Debug\net7.0\CoreProject.ImplementBLL.pdb
+E:\IMP\CoreAutoMapper\CoreProject.ImplementBLL\obj\Debug\net7.0\ref\CoreProject.ImplementBLL.dll

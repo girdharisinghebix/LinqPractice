@@ -1,0 +1,11 @@
+E:\IMP\CoreAutoMapper\CoreProject.Model\bin\Debug\net7.0\CoreProject.Model.deps.json
+E:\IMP\CoreAutoMapper\CoreProject.Model\bin\Debug\net7.0\CoreProject.Model.dll
+E:\IMP\CoreAutoMapper\CoreProject.Model\bin\Debug\net7.0\CoreProject.Model.pdb
+E:\IMP\CoreAutoMapper\CoreProject.Model\obj\Debug\net7.0\CoreProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMP\CoreAutoMapper\CoreProject.Model\obj\Debug\net7.0\CoreProject.Model.AssemblyInfoInputs.cache
+E:\IMP\CoreAutoMapper\CoreProject.Model\obj\Debug\net7.0\CoreProject.Model.AssemblyInfo.cs
+E:\IMP\CoreAutoMapper\CoreProject.Model\obj\Debug\net7.0\CoreProject.Model.csproj.CoreCompileInputs.cache
+E:\IMP\CoreAutoMapper\CoreProject.Model\obj\Debug\net7.0\CoreProject.Model.dll
+E:\IMP\CoreAutoMapper\CoreProject.Model\obj\Debug\net7.0\refint\CoreProject.Model.dll
+E:\IMP\CoreAutoMapper\CoreProject.Model\obj\Debug\net7.0\CoreProject.Model.pdb
+E:\IMP\CoreAutoMapper\CoreProject.Model\obj\Debug\net7.0\ref\CoreProject.Model.dll

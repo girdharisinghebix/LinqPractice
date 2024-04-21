@@ -1,0 +1,14 @@
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\bin\Debug\net7.0\CoreProject.DataAccessLayer.deps.json
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\bin\Debug\net7.0\CoreProject.DataAccessLayer.runtimeconfig.json
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\bin\Debug\net7.0\CoreProject.DataAccessLayer.dll
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\bin\Debug\net7.0\CoreProject.DataAccessLayer.pdb
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\CoreProject.DataAccessLayer.csproj.AssemblyReference.cache
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\CoreProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\CoreProject.DataAccessLayer.AssemblyInfoInputs.cache
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\CoreProject.DataAccessLayer.AssemblyInfo.cs
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\CoreProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\CoreProject.DataAccessLayer.dll
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\refint\CoreProject.DataAccessLayer.dll
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\CoreProject.DataAccessLayer.pdb
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\CoreProject.DataAccessLayer.genruntimeconfig.cache
+E:\IMP\CoreAutoMapper\CoreProject.DataAccessLayer\obj\Debug\net7.0\ref\CoreProject.DataAccessLayer.dll
